@@ -1,12 +1,11 @@
-# This app is just show "Loah HaKefel"
+# This app is just show Multiple-Table
 
 * download source
 * run command: 
----bash
+```bash
 npm install
----
-
+```
 * then run:
----bash
+```bash
 npm start
----
+```
